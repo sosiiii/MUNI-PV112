@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glad/gladConfig.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glad/gladConfigVersion.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glad/gladTargets-debug.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glad/gladTargets-release.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glad/gladTargets.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/gtest/GTestConfig.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/gtest/GTestConfigVersion.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-debug.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-release.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/gtest/GTestTargets.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/toml11/toml11Config.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/toml11/toml11ConfigVersion.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/toml11/toml11Targets.cmake
+H:/Courses/PV112/framework/framework/core/CMakeLists.txt
+H:/Courses/PV112/framework/framework/core/depends.cmake

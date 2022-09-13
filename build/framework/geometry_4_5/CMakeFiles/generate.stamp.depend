@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+H:/Courses/PV112/framework/framework/core/depends.cmake
+H:/Courses/PV112/framework/framework/geometry/depends.cmake
+H:/Courses/PV112/framework/framework/geometry_4_5/CMakeLists.txt
+H:/Courses/PV112/framework/framework/geometry_4_5/depends.cmake

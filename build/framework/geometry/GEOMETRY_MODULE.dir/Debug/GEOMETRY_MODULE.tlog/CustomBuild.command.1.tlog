@@ -1,0 +1,10 @@
+^H:\COURSES\PV112\FRAMEWORK\FRAMEWORK\GEOMETRY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SH:/Courses/PV112/framework -BH:/Courses/PV112/framework/build --check-stamp-file H:/Courses/PV112/framework/build/framework/geometry/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

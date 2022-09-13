@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+H:/Courses/PV112/framework/courses/PV112/depends.cmake
+H:/Courses/PV112/framework/courses/PV112/lecture_01/CMakeLists.txt
+H:/Courses/PV112/framework/framework/core/depends.cmake
+H:/Courses/PV112/framework/framework/geometry/depends.cmake
+H:/Courses/PV112/framework/framework/geometry_4_5/depends.cmake
+H:/Courses/PV112/framework/framework/glm/depends.cmake
+H:/Courses/PV112/framework/framework/gui/depends.cmake
+H:/Courses/PV112/framework/framework/pv112/depends.cmake

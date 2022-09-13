@@ -1,0 +1,154 @@
+Package: vcpkg-cmake-config
+Version: 2022-02-06
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 1e3d538efa4a35642edb7e270019107d97bb0f23cf5acdab537784af12fd4d46
+Type: Port
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2022-07-18
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 67c2f6e894b8a14b7cb56e8ffe52644f893b5772690b913702a33f843a0e1e7d
+Type: Port
+Status: install ok installed
+
+Package: egl-registry
+Version: 2021-11-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 93563c5367d9a6ebcb31286afb9fd24c8fb72ae4010e1491aefc825ea61eace0
+Description: the EGL API and Extension Registry
+Type: Port
+Status: install ok installed
+
+Package: opengl-registry
+Version: 2021-11-17
+Depends: egl-registry
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 4c5167933e69bfa3abecba432d55ac3c3f9d88aae63ffedc97af1ff604c8295f
+Description: the API and Extension registries for the OpenGL family APIs
+Type: Port
+Status: install ok installed
+
+Package: glad
+Version: 0.1.36
+Depends: egl-registry, opengl-registry, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c8d1a3cd332c3ab74d0180b66da6c2707a0a13d42f8b5ce716a9ebbde8b8badb
+Description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+Type: Port
+Default-Features: loader
+Status: install ok installed
+
+Package: glad
+Feature: loader
+Architecture: x64-windows
+Multi-Arch: same
+Description: Generate loader logic.
+Type: Port
+Status: install ok installed
+
+Package: glfw3
+Version: 3.3.8
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 99fdbb3829b4b13814ddafe39da543527dd617a581198613186c2853d18cb141
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Type: Port
+Status: install ok installed
+
+Package: glm
+Version: 0.9.9.8
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7d265c8786cd81e53a6a5472770aaf3f7bf35b0e77c003f2fea8a068cb26b453
+Description: OpenGL Mathematics (GLM)
+Type: Port
+Status: install ok installed
+
+Package: gtest
+Version: 1.12.1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 75020847026effd831886a8c018cf98999be925736cbb965ceb70006a8fb120d
+Description: GoogleTest and GoogleMock testing frameworks
+Type: Port
+Status: install ok installed
+
+Package: imgui
+Version: 1.88
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c328df175f718c3351b7f8cd6f20ff50678bd7f25ffca640563fe85ecd814bd1
+Description: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+Type: Port
+Status: install ok installed
+
+Package: imgui
+Feature: glfw-binding
+Depends: glfw3
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available GLFW binding
+Type: Port
+Status: install ok installed
+
+Package: imgui
+Feature: opengl3-binding
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available OpenGL3/ES/ES2 (modern) binding
+Type: Port
+Status: install ok installed
+
+Package: lodepng
+Version: 2021-12-04
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: ccd4e65171421e06b1da8de3036bf2ed9eb8da8dbad77c0251f22fe44394990b
+Description: PNG encoder and decoder in C++
+Type: Port
+Status: install ok installed
+
+Package: stb
+Version: 2021-09-10
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 8f5b0cabe40d7eac203814d006cd86a02a04b70df3df345e199be6cfe9e0b2b7
+Description: public domain header-only libraries
+Type: Port
+Status: install ok installed
+
+Package: tinyobjloader
+Version: 2.0.0-rc9
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f762d0dc0e04a62fefda2f206249844e321ce5626ae380c382c6a01baf2b6f62
+Description: Tiny but powerful single file wavefront obj loader
+Type: Port
+Status: install ok installed
+
+Package: toml11
+Version: 3.7.1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f20fecc44ca9e0391f5332eb77627071fc20b9f095c9cb7ebec16468599faf53
+Description: A C++11 header-only toml parser/encoder depending only on C++ standard library.
+Type: Port
+Status: install ok installed
+

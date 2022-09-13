@@ -1,0 +1,10 @@
+^H:\COURSES\PV112\FRAMEWORK\BUILD\CMAKEFILES\EDD90FE37F83173022464014CCFED65E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SH:/Courses/PV112/framework -BH:/Courses/PV112/framework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file H:/Courses/PV112/framework/build/ComputerGraphicsFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config-version.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-debug.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-release.cmake
+H:/Courses/PV112/framework/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets.cmake
+H:/Courses/PV112/framework/framework/core/depends.cmake
+H:/Courses/PV112/framework/framework/geometry/CMakeLists.txt
+H:/Courses/PV112/framework/framework/geometry/depends.cmake
