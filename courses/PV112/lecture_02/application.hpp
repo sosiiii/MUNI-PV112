@@ -17,6 +17,7 @@ class Application : public PV112Application {
 private:
     GLuint vao = 0;
     GLuint program = 0;
+    GLuint program2 = 0;
 
     /** Integer containing number of currently selected option of the radio button */
     int ui_reverse_sides = 0;
@@ -55,6 +56,7 @@ public:
 
     /** @copydoc PV112Application::render_ui */
     void render_ui() override;
+    GLuint load_shader(GLenum type, std::string name);
 
     // ----------------------------------------------------------------------------
     // Input Events
