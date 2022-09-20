@@ -1,0 +1,380 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.24.1/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "H:/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.24.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.24.1/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"path" : "cmake/utils.cmake"
+		},
+		{
+			"path" : "cmake/courses.cmake"
+		},
+		{
+			"path" : "cmake/modules.cmake"
+		},
+		{
+			"path" : "vcpkg.json"
+		},
+		{
+			"path" : "courses/PV112/CMakeLists.txt"
+		},
+		{
+			"path" : "courses/PV112/lecture_01/CMakeLists.txt"
+		},
+		{
+			"path" : "courses/PV112/depends.cmake"
+		},
+		{
+			"path" : "framework/pv112/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"path" : "framework/glm/depends.cmake"
+		},
+		{
+			"path" : "framework/gui/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry_4_5/depends.cmake"
+		},
+		{
+			"path" : "courses/PV112/lecture_02/CMakeLists.txt"
+		},
+		{
+			"path" : "courses/PV112/depends.cmake"
+		},
+		{
+			"path" : "framework/pv112/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"path" : "framework/glm/depends.cmake"
+		},
+		{
+			"path" : "framework/gui/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry_4_5/depends.cmake"
+		},
+		{
+			"path" : "framework/pv112/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/pv112/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"path" : "framework/glm/depends.cmake"
+		},
+		{
+			"path" : "framework/gui/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/geometry/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config-version.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-release.cmake"
+		},
+		{
+			"path" : "framework/geometry_4_5/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/geometry_4_5/depends.cmake"
+		},
+		{
+			"path" : "framework/geometry/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"path" : "framework/gui/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/gui/depends.cmake"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"path" : "framework/glm/depends.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/imgui/imgui-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/imgui/imgui-targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/imgui/imgui-targets-release.cmake"
+		},
+		{
+			"path" : "framework/core/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/core/depends.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glad/gladConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glad/gladConfig.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glad/gladTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glad/gladTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glad/gladTargets-release.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/toml11/toml11ConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/toml11/toml11Config.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/toml11/toml11Targets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/gtest/GTestConfigVersion.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/gtest/GTestConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Program Files/CMake/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/gtest/GTestTargets.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-debug.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/gtest/GTestTargets-release.cmake"
+		},
+		{
+			"path" : "framework/glm/CMakeLists.txt"
+		},
+		{
+			"path" : "framework/glm/depends.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/vcpkg_installed/x64-windows/share/glm/glm-config.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "H:/Courses/PV112/framework/build",
+		"source" : "H:/Courses/PV112/framework"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
