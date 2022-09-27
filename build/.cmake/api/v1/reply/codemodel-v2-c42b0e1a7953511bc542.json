@@ -1,0 +1,1204 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						10
+					]
+				},
+				{
+					"build" : "courses/PV112",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-courses.PV112-Debug-3d6a01109df89ed010c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/PV112"
+				},
+				{
+					"build" : "courses/PV112/lecture_01",
+					"jsonFile" : "directory-courses.PV112.lecture_01-Debug-801664476b63515c99cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_01",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_02",
+					"jsonFile" : "directory-courses.PV112.lecture_02-Debug-38a9eaa89136bf3de40c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_02",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_03",
+					"jsonFile" : "directory-courses.PV112.lecture_03-Debug-897ef81ebc46247ba0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_03",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "framework/pv112",
+					"jsonFile" : "directory-framework.pv112-Debug-302442738fb0d94173d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/pv112",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "framework/geometry",
+					"jsonFile" : "directory-framework.geometry-Debug-326f51b9897d1c6c9aef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "framework/geometry_4_5",
+					"jsonFile" : "directory-framework.geometry_4_5-Debug-aaa4ec741c40250b4b05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry_4_5",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "framework/gui",
+					"jsonFile" : "directory-framework.gui-Debug-4ebdb48b3bc344c2c16f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/gui",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "framework/core",
+					"jsonFile" : "directory-framework.core-Debug-7a65a644866d7ba7072c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/core",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "framework/glm",
+					"jsonFile" : "directory-framework.glm-Debug-99d2a32a2b43eb7ef56f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "ComputerGraphicsFramework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-372a2f97be41521d2d7f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "CORE_MODULE::@03a3214d4d97b2505c38",
+					"jsonFile" : "target-CORE_MODULE-Debug-b2d5d19ab25e1766ff5e.json",
+					"name" : "CORE_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "GEOMETRY_4_5_MODULE::@47e3f37950e9f47e11ce",
+					"jsonFile" : "target-GEOMETRY_4_5_MODULE-Debug-5b78321a96e0e545810b.json",
+					"name" : "GEOMETRY_4_5_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GEOMETRY_MODULE::@0427da057047a9e64904",
+					"jsonFile" : "target-GEOMETRY_MODULE-Debug-0838776897299dcc44fb.json",
+					"name" : "GEOMETRY_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "GLM_MODULE::@6f3e9f5a1d77e24efa0b",
+					"jsonFile" : "target-GLM_MODULE-Debug-e86b7f595d9a9434efd5.json",
+					"name" : "GLM_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "GUI_MODULE::@0fbfe7d627f7bc62651e",
+					"jsonFile" : "target-GUI_MODULE-Debug-ab4efca46fc443ee4fa1.json",
+					"name" : "GUI_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PV112_MODULE::@beace442085c91862981",
+					"jsonFile" : "target-PV112_MODULE-Debug-e50ad9bc43aa654b50b9.json",
+					"name" : "PV112_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PV112_lecture_01::@635d5eec76aca7277401",
+					"jsonFile" : "target-PV112_lecture_01-Debug-056a98cc502839eb7a9b.json",
+					"name" : "PV112_lecture_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PV112_lecture_02::@7c560d4fca013e8a944a",
+					"jsonFile" : "target-PV112_lecture_02-Debug-8c1bf1920f7f110b6c46.json",
+					"name" : "PV112_lecture_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PV112_lecture_03::@681d7a182a4766d9f65d",
+					"jsonFile" : "target-PV112_lecture_03-Debug-1e60f7a45470d71d6551.json",
+					"name" : "PV112_lecture_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-ab9a1b57c2a832c55431.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						10
+					]
+				},
+				{
+					"build" : "courses/PV112",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-courses.PV112-Release-3d6a01109df89ed010c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/PV112"
+				},
+				{
+					"build" : "courses/PV112/lecture_01",
+					"jsonFile" : "directory-courses.PV112.lecture_01-Release-801664476b63515c99cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_01",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_02",
+					"jsonFile" : "directory-courses.PV112.lecture_02-Release-38a9eaa89136bf3de40c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_02",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_03",
+					"jsonFile" : "directory-courses.PV112.lecture_03-Release-897ef81ebc46247ba0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_03",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "framework/pv112",
+					"jsonFile" : "directory-framework.pv112-Release-302442738fb0d94173d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/pv112",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "framework/geometry",
+					"jsonFile" : "directory-framework.geometry-Release-326f51b9897d1c6c9aef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "framework/geometry_4_5",
+					"jsonFile" : "directory-framework.geometry_4_5-Release-aaa4ec741c40250b4b05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry_4_5",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "framework/gui",
+					"jsonFile" : "directory-framework.gui-Release-4ebdb48b3bc344c2c16f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/gui",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "framework/core",
+					"jsonFile" : "directory-framework.core-Release-7a65a644866d7ba7072c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/core",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "framework/glm",
+					"jsonFile" : "directory-framework.glm-Release-99d2a32a2b43eb7ef56f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "ComputerGraphicsFramework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-372a2f97be41521d2d7f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "CORE_MODULE::@03a3214d4d97b2505c38",
+					"jsonFile" : "target-CORE_MODULE-Release-b2585d116e7d875e5e71.json",
+					"name" : "CORE_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "GEOMETRY_4_5_MODULE::@47e3f37950e9f47e11ce",
+					"jsonFile" : "target-GEOMETRY_4_5_MODULE-Release-f1d085ffd46e142e30f0.json",
+					"name" : "GEOMETRY_4_5_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GEOMETRY_MODULE::@0427da057047a9e64904",
+					"jsonFile" : "target-GEOMETRY_MODULE-Release-45fa09ac5cdb73618d70.json",
+					"name" : "GEOMETRY_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "GLM_MODULE::@6f3e9f5a1d77e24efa0b",
+					"jsonFile" : "target-GLM_MODULE-Release-0313366458eab20ce0d5.json",
+					"name" : "GLM_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "GUI_MODULE::@0fbfe7d627f7bc62651e",
+					"jsonFile" : "target-GUI_MODULE-Release-ec52fc2c557f2bcfca5d.json",
+					"name" : "GUI_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PV112_MODULE::@beace442085c91862981",
+					"jsonFile" : "target-PV112_MODULE-Release-3971a9675f1dc6515489.json",
+					"name" : "PV112_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PV112_lecture_01::@635d5eec76aca7277401",
+					"jsonFile" : "target-PV112_lecture_01-Release-033d9536230b2b5cc563.json",
+					"name" : "PV112_lecture_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PV112_lecture_02::@7c560d4fca013e8a944a",
+					"jsonFile" : "target-PV112_lecture_02-Release-5a1a8c601ca029f19bac.json",
+					"name" : "PV112_lecture_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PV112_lecture_03::@681d7a182a4766d9f65d",
+					"jsonFile" : "target-PV112_lecture_03-Release-4ea889290de7d6d8d4fc.json",
+					"name" : "PV112_lecture_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-ab9a1b57c2a832c55431.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						10
+					]
+				},
+				{
+					"build" : "courses/PV112",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-courses.PV112-MinSizeRel-3d6a01109df89ed010c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/PV112"
+				},
+				{
+					"build" : "courses/PV112/lecture_01",
+					"jsonFile" : "directory-courses.PV112.lecture_01-MinSizeRel-801664476b63515c99cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_01",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_02",
+					"jsonFile" : "directory-courses.PV112.lecture_02-MinSizeRel-38a9eaa89136bf3de40c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_02",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_03",
+					"jsonFile" : "directory-courses.PV112.lecture_03-MinSizeRel-897ef81ebc46247ba0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_03",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "framework/pv112",
+					"jsonFile" : "directory-framework.pv112-MinSizeRel-302442738fb0d94173d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/pv112",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "framework/geometry",
+					"jsonFile" : "directory-framework.geometry-MinSizeRel-326f51b9897d1c6c9aef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "framework/geometry_4_5",
+					"jsonFile" : "directory-framework.geometry_4_5-MinSizeRel-aaa4ec741c40250b4b05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry_4_5",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "framework/gui",
+					"jsonFile" : "directory-framework.gui-MinSizeRel-4ebdb48b3bc344c2c16f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/gui",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "framework/core",
+					"jsonFile" : "directory-framework.core-MinSizeRel-7a65a644866d7ba7072c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/core",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "framework/glm",
+					"jsonFile" : "directory-framework.glm-MinSizeRel-99d2a32a2b43eb7ef56f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "ComputerGraphicsFramework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-372a2f97be41521d2d7f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "CORE_MODULE::@03a3214d4d97b2505c38",
+					"jsonFile" : "target-CORE_MODULE-MinSizeRel-64f54bb4be54618ee88b.json",
+					"name" : "CORE_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "GEOMETRY_4_5_MODULE::@47e3f37950e9f47e11ce",
+					"jsonFile" : "target-GEOMETRY_4_5_MODULE-MinSizeRel-3d7c9e42b406873b60ea.json",
+					"name" : "GEOMETRY_4_5_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GEOMETRY_MODULE::@0427da057047a9e64904",
+					"jsonFile" : "target-GEOMETRY_MODULE-MinSizeRel-667bd00dbaad4e98123e.json",
+					"name" : "GEOMETRY_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "GLM_MODULE::@6f3e9f5a1d77e24efa0b",
+					"jsonFile" : "target-GLM_MODULE-MinSizeRel-9fc5adbb1f9fb04dbb9d.json",
+					"name" : "GLM_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "GUI_MODULE::@0fbfe7d627f7bc62651e",
+					"jsonFile" : "target-GUI_MODULE-MinSizeRel-682deebd3fbb0ca3e3b2.json",
+					"name" : "GUI_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PV112_MODULE::@beace442085c91862981",
+					"jsonFile" : "target-PV112_MODULE-MinSizeRel-08a39ff650f5e6edc71a.json",
+					"name" : "PV112_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PV112_lecture_01::@635d5eec76aca7277401",
+					"jsonFile" : "target-PV112_lecture_01-MinSizeRel-1e2a094ed9c5ab9c1f3f.json",
+					"name" : "PV112_lecture_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PV112_lecture_02::@7c560d4fca013e8a944a",
+					"jsonFile" : "target-PV112_lecture_02-MinSizeRel-4c7571a8b89871c0e2ec.json",
+					"name" : "PV112_lecture_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PV112_lecture_03::@681d7a182a4766d9f65d",
+					"jsonFile" : "target-PV112_lecture_03-MinSizeRel-f581b3ed9cfbcde9dee0.json",
+					"name" : "PV112_lecture_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-ab9a1b57c2a832c55431.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						10
+					]
+				},
+				{
+					"build" : "courses/PV112",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-courses.PV112-RelWithDebInfo-3d6a01109df89ed010c2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "courses/PV112"
+				},
+				{
+					"build" : "courses/PV112/lecture_01",
+					"jsonFile" : "directory-courses.PV112.lecture_01-RelWithDebInfo-801664476b63515c99cc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_01",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_02",
+					"jsonFile" : "directory-courses.PV112.lecture_02-RelWithDebInfo-38a9eaa89136bf3de40c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_02",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "courses/PV112/lecture_03",
+					"jsonFile" : "directory-courses.PV112.lecture_03-RelWithDebInfo-897ef81ebc46247ba0ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "courses/PV112/lecture_03",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "framework/pv112",
+					"jsonFile" : "directory-framework.pv112-RelWithDebInfo-302442738fb0d94173d9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/pv112",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "framework/geometry",
+					"jsonFile" : "directory-framework.geometry-RelWithDebInfo-326f51b9897d1c6c9aef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "framework/geometry_4_5",
+					"jsonFile" : "directory-framework.geometry_4_5-RelWithDebInfo-aaa4ec741c40250b4b05.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/geometry_4_5",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "framework/gui",
+					"jsonFile" : "directory-framework.gui-RelWithDebInfo-4ebdb48b3bc344c2c16f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/gui",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "framework/core",
+					"jsonFile" : "directory-framework.core-RelWithDebInfo-7a65a644866d7ba7072c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/core",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "framework/glm",
+					"jsonFile" : "directory-framework.glm-RelWithDebInfo-99d2a32a2b43eb7ef56f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "framework/glm",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					],
+					"name" : "ComputerGraphicsFramework",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-372a2f97be41521d2d7f.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "CORE_MODULE::@03a3214d4d97b2505c38",
+					"jsonFile" : "target-CORE_MODULE-RelWithDebInfo-eef5392ae20610552c64.json",
+					"name" : "CORE_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "GEOMETRY_4_5_MODULE::@47e3f37950e9f47e11ce",
+					"jsonFile" : "target-GEOMETRY_4_5_MODULE-RelWithDebInfo-973951c7695c0cb23bdf.json",
+					"name" : "GEOMETRY_4_5_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "GEOMETRY_MODULE::@0427da057047a9e64904",
+					"jsonFile" : "target-GEOMETRY_MODULE-RelWithDebInfo-b76345ea646c8433af65.json",
+					"name" : "GEOMETRY_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "GLM_MODULE::@6f3e9f5a1d77e24efa0b",
+					"jsonFile" : "target-GLM_MODULE-RelWithDebInfo-05414860a69c8285d3e0.json",
+					"name" : "GLM_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "GUI_MODULE::@0fbfe7d627f7bc62651e",
+					"jsonFile" : "target-GUI_MODULE-RelWithDebInfo-f6d28d61a413180ee180.json",
+					"name" : "GUI_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "PV112_MODULE::@beace442085c91862981",
+					"jsonFile" : "target-PV112_MODULE-RelWithDebInfo-42b64186a05eee1e02c5.json",
+					"name" : "PV112_MODULE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PV112_lecture_01::@635d5eec76aca7277401",
+					"jsonFile" : "target-PV112_lecture_01-RelWithDebInfo-5907c0836fc6b2f7cf11.json",
+					"name" : "PV112_lecture_01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "PV112_lecture_02::@7c560d4fca013e8a944a",
+					"jsonFile" : "target-PV112_lecture_02-RelWithDebInfo-1485f2b6e51cc720c383.json",
+					"name" : "PV112_lecture_02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "PV112_lecture_03::@681d7a182a4766d9f65d",
+					"jsonFile" : "target-PV112_lecture_03-RelWithDebInfo-d4d7fac878f2659058a6.json",
+					"name" : "PV112_lecture_03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-ab9a1b57c2a832c55431.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "H:/Courses/PV112/framework/build",
+		"source" : "H:/Courses/PV112/framework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

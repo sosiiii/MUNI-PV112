@@ -205,6 +205,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{85D6D0A4-08BA-3E74-8BE4-8ADB409E7300}</Project>
       <Name>PV112_lecture_02</Name>
     </ProjectReference>
+    <ProjectReference Include="H:\Courses\PV112\framework\build\courses\PV112\lecture_03\PV112_lecture_03.vcxproj">
+      <Project>{C7B9E1E8-078E-3175-A452-D194B015819A}</Project>
+      <Name>PV112_lecture_03</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

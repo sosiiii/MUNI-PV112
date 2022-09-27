@@ -42,3 +42,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("H:/Courses/PV112/framework/build/courses/PV112/lecture_02/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("H:/Courses/PV112/framework/build/courses/PV112/lecture_03/cmake_install.cmake")
+endif()
+
